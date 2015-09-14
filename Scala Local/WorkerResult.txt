@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0mSet current project to Scala Local (in build file:/home/ashwani/Desktop/stud/someJunk/Scala%20Local/)[0m
+[0m[[0minfo[0m] [0mRunning local.BitcoinLocal 127.0.0.1[0m
+[INFO] [09/13/2015 20:48:40.861] [run-main-0] [NettyRemoteTransport(akka://BitcoinLocalSystem@127.0.0.1:59837)] RemoteServerStarted@akka://BitcoinLocalSystem@127.0.0.1:59837
+[INFO] [09/13/2015 20:48:43.349] [BitcoinLocalSystem-akka.actor.default-dispatcher-4] [NettyRemoteTransport(akka://BitcoinLocalSystem@127.0.0.1:59837)] RemoteClientStarted@akka://BitcoinRemoteSystem@127.0.0.1:5150
